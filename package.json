@@ -1,0 +1,20 @@
+{
+  "name": "Test",
+  "author": "Prashanth <munichlinux@gmail.com>",
+  "private": false,
+  "contributors": [
+    {
+      "name": "Prashanth",
+      "email": "munichlinux@gmail.com"
+    }
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "should": "~3.1.2",
+    "mocha": "~1.17.1"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.2.x"
+  }
+}
